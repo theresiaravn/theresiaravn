@@ -1,6 +1,6 @@
 # Education
 Bachelor in Software development at ITU
-(I'm on my 5th out of 7 semesters)
+(I'm currently on my 5th out of 7 semesters)
 
 # Experience
 I have experience with both OO programming, which is the type of programming I have done the most throughout my education. I also have experience with functional programming as well as operating relational databases. The following list contains all program languages I have experience in, from most confident to least confident.
@@ -15,6 +15,14 @@ I have experience with both OO programming, which is the type of programming I h
 - Go
 - C
 - Assembly
+
+(I have only coded bigger projects (in teams) in C# and F#)
+
+# About me 
+**Pronouns:** Any
+**Hobbies:** draw and/or paint, write, crochet, cosplay, arts and crafts
+**Name** Theresia Ravn
+
 
 
 <!--
