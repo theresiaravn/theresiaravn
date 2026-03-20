@@ -16,7 +16,7 @@ I have experience with both OO programming, which is the type of programming I h
 - C
 - Assembly
 
-(I have only coded bigger projects (in teams) in C# and F#)
+(I have only coded bigger projects (in teams) in C# Java and F#)
 
 # About me 
 **Pronouns:** Any
