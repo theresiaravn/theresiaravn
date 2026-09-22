@@ -21,8 +21,11 @@ I have experience with both OO programming, which is the type of programming I h
 (I have only coded bigger projects (in teams) in C# Java and F#)
 
 # About me 
+
 **Pronouns:** Any
+
 **Hobbies:** draw and/or paint, write, crochet, cosplay, arts and crafts
+
 **Name** Theresia Ravn
 
 
