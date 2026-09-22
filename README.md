@@ -5,13 +5,15 @@ Bachelor in Software development at ITU
 # Experience
 I have experience with both OO programming, which is the type of programming I have done the most throughout my education. I also have experience with functional programming as well as operating relational databases. The following list contains all program languages I have experience in, from most confident to least confident.
 
-- F#
-- C#
 - Java
+- C#
+- F#
+- Processing
 - SQL
 - Html
 - Javascript
 - Css
+- JavaFX
 - Go
 - C
 - Assembly
