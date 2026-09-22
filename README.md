@@ -1,6 +1,6 @@
 # Education
 Bachelor in Software development at ITU
-(I'm currently on my 5th out of 7 semesters)
+(I'm currently on my 6th out of 8 semesters)
 
 # Experience
 I have experience with both OO programming, which is the type of programming I have done the most throughout my education. I also have experience with functional programming as well as operating relational databases. The following list contains all program languages I have experience in, from most confident to least confident.
